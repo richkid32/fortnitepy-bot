@@ -1,5 +1,5 @@
 {
-    "email": "email@email.com",
+    "email": ",
     "password": "password1",
     "cid": "CID_705_Athena_Commando_M_Donut",
     "bid": "BID_480_Donut",
@@ -9,7 +9,7 @@
     "level": 999,
     "bp_tier": 999999999,
     "status": "Created by xMistt, enjoy!\nSupport server: https://discord.gg/fnpy",
-    "platform": "WIN",
+    "platform": "PSN",
     "debug": false,
     "friendaccept": true
 }
